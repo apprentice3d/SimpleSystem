@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleSystem::Master">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimpleSystem::Master::parameters" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Master.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimpleSystem::Master::references" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Master.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimpleSystem::Master::ui_parts" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Master.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AOQIAAEAIC4AIKCgQAAAABAAAIREII0YjMBgAAACAAA=</HashCode>
+      <FileName>Master.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::MasterClassDesc">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAACAAAAAAEAAIAAAACAEAkAAAAAAAAAACAA=</HashCode>
+      <FileName>Master.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::NumberPBAccessor">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Master.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::SlaveControl">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAKAAUAIIAAIkAAQAAAEBAAAoQEIAEBAEAgAABCAhA=</HashCode>
+      <FileName>SlaveControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::SlaveControlClassDesc">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAACAAAAAAAAAAAAAACAEAEAAAAAAAAAACAA=</HashCode>
+      <FileName>SlaveControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::MasterCreationManager">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACoIAAAIAIAQKIAAACAABAAAAIAAMAAAASAAAAACABA=</HashCode>
+      <FileName>MasterCreationManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSystem::MasterCreateMode">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAQggAAAAAIAAAAAAAAAkAAAAACCAAACAAI=</HashCode>
+      <FileName>MasterCreationManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
